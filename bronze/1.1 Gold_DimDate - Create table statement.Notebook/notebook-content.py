@@ -32,7 +32,7 @@
 # MAGIC CREATE TABLE lh_gold_exercises.Date.DimDate
 # MAGIC (
 # MAGIC     -- Primaire sleutel (dag-niveau, yyyymmdd)
-# MAGIC     date_sk             INT,            -- bv. 20250330
+# MAGIC     date_sk             INT,            -- bv. 20250330aaaaa
 # MAGIC 
 # MAGIC     -- Datum
 # MAGIC     date                DATE,           -- bv. 2025-03-30
