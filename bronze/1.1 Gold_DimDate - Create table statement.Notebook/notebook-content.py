@@ -23,7 +23,7 @@
 # CELL ********************
 
 # MAGIC %%sql
-# MAGIC -- LET OP: vervang de lakehouse UUIDs in de notebook metadata nadat
+# MAGIC -- LET OP: vervang de lakehouse UUIDs in de noteeeeeeeeeebook metadata nadat
 # MAGIC -- lh_gold_exercises aangemaakt is in de Gold workspace.
 # MAGIC 
 # MAGIC CREATE SCHEMA IF NOT EXISTS Date;
