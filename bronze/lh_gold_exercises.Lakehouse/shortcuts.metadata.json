@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Weather_Silver",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/Weather",
+        "itemId": "43faa9a0-6c16-4da5-b775-2b9686c6b751",
+        "workspaceId": "207014b0-6859-4102-9acc-9aafb600dfc6"
+      }
+    }
+  },
+  {
+    "name": "Weather",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/Weather",
+        "itemId": "43faa9a0-6c16-4da5-b775-2b9686c6b751",
+        "workspaceId": "207014b0-6859-4102-9acc-9aafb600dfc6"
+      }
+    }
+  },
+  {
+    "name": "Sales_Silver",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/Sales",
+        "itemId": "43faa9a0-6c16-4da5-b775-2b9686c6b751",
+        "workspaceId": "207014b0-6859-4102-9acc-9aafb600dfc6"
+      }
+    }
+  },
+  {
+    "name": "Sales",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/Sales",
+        "itemId": "43faa9a0-6c16-4da5-b775-2b9686c6b751",
+        "workspaceId": "207014b0-6859-4102-9acc-9aafb600dfc6"
+      }
+    }
+  },
+  {
+    "name": "Product_Silver",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/Product",
+        "itemId": "43faa9a0-6c16-4da5-b775-2b9686c6b751",
+        "workspaceId": "207014b0-6859-4102-9acc-9aafb600dfc6"
+      }
+    }
+  },
+  {
+    "name": "Date_Silver",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/Date",
+        "itemId": "43faa9a0-6c16-4da5-b775-2b9686c6b751",
+        "workspaceId": "207014b0-6859-4102-9acc-9aafb600dfc6"
+      }
+    }
+  },
+  {
+    "name": "Customer_Silver",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/Customer",
+        "itemId": "43faa9a0-6c16-4da5-b775-2b9686c6b751",
+        "workspaceId": "207014b0-6859-4102-9acc-9aafb600dfc6"
+      }
+    }
+  },
+  {
+    "name": "Customer",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/Customer",
+        "itemId": "43faa9a0-6c16-4da5-b775-2b9686c6b751",
+        "workspaceId": "207014b0-6859-4102-9acc-9aafb600dfc6"
+      }
+    }
+  }
+]
